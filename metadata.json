@@ -1,0 +1,7 @@
+{
+  "name": "心语镜 (Heart Mirror) - 情绪吐槽治愈所",
+  "description": "一个温暖的情绪疏导空间。通过吐槽你的烦心事，AI将为你定制心理评测并提供深度情感分析与建议，助你找回内心的平静。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
